@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ileusion.github.io/sitemap
+Sitemap: https://ileusion.github.io/app/sitemap
+Sitemap: https://ileusion.github.io/assets/sitemap
+Sitemap: https://ileusion.github.io/css/sitemap
+Sitemap: https://ileusion.github.io/includes/sitemap
+Sitemap: https://ileusion.github.io/item/sitemap
+Sitemap: https://ileusion.github.io/src/sitemap
